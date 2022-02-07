@@ -44,7 +44,7 @@ $ apt install nodejs -y
 $ pip3 install -U pip
 $ npm i -g npm
 # Now Do Git Clone
-$ git clone https://github.com/TeamDaisyX/DaisyXmusic
+$ git clone https://github.com/Ribaj/DaisyXmusic
 $ cd DaisyXMusic
 # Upgrade sources
 # Install All Requirements 
